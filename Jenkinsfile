@@ -10,7 +10,7 @@ pipeline {
 
     stage('Checkout from GitHub') {
       steps {
-        git url: 'https://github.com/Ellouzi/cicd-projet', branch: 'main'
+        git url: 'https://github.com/AliEllouzi/cicd-projet', branch: 'main'
       }
     }
 
