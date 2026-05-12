@@ -1,0 +1,9 @@
+{
+  "name": "mon-appli",
+  "version": "1.0.0",
+  "description": "Application demo pour pipeline CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
